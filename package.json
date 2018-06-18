@@ -1,0 +1,31 @@
+{
+  "name": "h5locks",
+  "version": "0.0.1",
+  "description": "基于canvas实现的移动端h5手势解锁",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ws18250840411/h5locks.git"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "https://github.com/ws18250840411",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ws18250840411/h5locks/issues"
+  },
+  "homepage": "https://github.com/ws18250840411/h5locks#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.8"
+  }
+}
