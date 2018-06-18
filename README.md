@@ -5,7 +5,7 @@
 
 - 下载地址 https://github.com/ws18250840411/h5locks
 - `npm i h5locks`
-- CDN https://github.com/ws18250840411/h5locks/release/bundle.js
+- CDN https://unpkg.com/h5locks@0.0.1/release/bundle.js
 
 ##快速使用
 
