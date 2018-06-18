@@ -3,6 +3,10 @@
 
 ##安装下载
 
+- 下载地址 https://github.com/ws18250840411/h5locks
+- `npm i h5locks`
+- CDN https://github.com/ws18250840411/h5locks/release/bundle.js
+
 ##快速使用
 
 简单接入的 文档
